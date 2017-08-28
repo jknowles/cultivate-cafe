@@ -1,0 +1,37 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              <a href="{{ "/" | relative_url }}"> {{ site.title | escape }} </a>
+            {% endif %}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+
+    <div class="cepr-logo-container">
+      <a href="http://jknowles.github.io/cultivate-cafe/">
+        <img src="{{ "/assets/cultivateWebTrans.gif" | relative_url }}">
+      </a>
+    </div>
+
+  </div>
+
+</footer>

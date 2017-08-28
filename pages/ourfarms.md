@@ -1,6 +1,11 @@
 ---
-layout: home
+layout: page
+title: Our Farms
+permalink: /farms/
+categories: [pages]
+description: Our Farms
 ---
+
 
 We work with a variety of local farms in the Youngstown Area to provide
 fresh local produce at affordable prices.

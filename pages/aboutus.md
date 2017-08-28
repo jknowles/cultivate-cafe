@@ -1,6 +1,10 @@
 ---
---- layout: home ---
-
+layout: page
+title: About Us
+permalink: /aboutus/
+categories: [pages]
+description: Our Story
+---
 
 ## What is Cultivate?
 

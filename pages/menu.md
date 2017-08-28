@@ -1,5 +1,9 @@
 ---
-layout: home
+layout: page
+title: Menu
+permalink: /menu/
+categories: [pages]
+description: Our Menu
 ---
 
 Cultivate: a co-op café

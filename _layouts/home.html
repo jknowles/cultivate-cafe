@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<h2>Cultivate Cafe</h2>
+
+  OpenSDP is an online, public repository of analytic code, tools, and training
+  intended to foster collaboration among education analysts and researchers in
+  order to accelerate the improvement of our school systems. This community was
+  built by the <a href="https://sdp.cepr.harvard.edu">Strategic Data Project</a>, an initiative of
+  the <a href="https://cepr.harvard.edu">Center for Education Policy Research at Harvard</a>.
+
+  <h2>Tools</h2>
+
+  On OpenSDP you will have access to data, analyses and tutorials for every stage of
+  the analytic cycle, from preparing and standardizing your data, to conducting
+  analyses and producing visualizations.
+
+  {% for page in site.pages %}
+    {% if page.categories contains "pages" %}
+      <div class="detail-block">
+        <a href="{{page.url | relative_url}}">
+          <h4 class="box-subheading">{{page.title}}:</h4>
+        </a>
+        <p class="box-subdescription">{{page.description}}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+  <br class="clearfix">
+
+
+</div>

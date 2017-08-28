@@ -1,15 +1,6 @@
 ---
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-
-<div class="container">
-<img src="assets\cultivateWebTrans.gif" style="display: block; margin: 0 auto; height: 250px;">
-</div>
-
-
-# Cultivate Cafe
-
-For the community.

@@ -6,6 +6,9 @@ categories: [pages]
 description: Our Story
 ---
 
+<img src="assets/img/Cultivate-5.jpg" id="bg" alt="">
+
+
 <p>
 
 ## What is Cultivate?

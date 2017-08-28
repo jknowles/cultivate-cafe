@@ -8,6 +8,8 @@ description: Our Menu
 
 ## Cultivate: a co-op café
 ### 901 Elm Street Youngstown
+
+
 **between YSU dormitories and Wick Park**
 **234-855-0175        cultivatecafe.org**
 **cultivate.a.co.op.cafe@gmail.com**

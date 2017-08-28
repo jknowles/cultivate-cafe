@@ -14,56 +14,48 @@ description: Our Menu
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
-    <li data-target="#myCarousel" data-slide-to="4"></li>
-    <li data-target="#myCarousel" data-slide-to="5"></li>
-    <li data-target="#myCarousel" data-slide-to="6"></li>
-    <li data-target="#myCarousel" data-slide-to="7"></li>
-    <li data-target="#myCarousel" data-slide-to="8"></li>
-    <li data-target="#myCarousel" data-slide-to="9"></li>
-    <li data-target="#myCarousel" data-slide-to="10"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="../assets/img/Cultivate-4.jpg" alt="Inside">
+      <img src="../assets/img/Cultivate-4.jpg" alt="Inside" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-8.jpg" alt="Outside">
+      <img src="../assets/img/Cultivate-8.jpg" alt="Outside" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-9.jpg" alt="A">
+      <img src="../assets/img/Cultivate-9.jpg" alt="A" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-10.jpg" alt="B">
+      <img src="../assets/img/Cultivate-10.jpg" alt="B" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-13.jpg" alt="C">
+      <img src="../assets/img/Cultivate-13.jpg" alt="C" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-25.jpg" alt="D">
+      <img src="../assets/img/Cultivate-25.jpg" alt="D" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-30.jpg" alt="E">
+      <img src="../assets/img/Cultivate-30.jpg" alt="E" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-34.jpg" alt="F">
+      <img src="../assets/img/Cultivate-34.jpg" alt="F" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-40.jpg" alt="G">
+      <img src="../assets/img/Cultivate-40.jpg" alt="G" style="width:100%;">
     </div>
 
     <div class="item">
-      <img src="../assets/img/Cultivate-50.jpg" alt="H">
+      <img src="../assets/img/Cultivate-50.jpg" alt="H" style="width:100%;">
     </div>
 
   </div>

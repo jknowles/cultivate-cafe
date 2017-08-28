@@ -18,10 +18,10 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: white;
-  background-image: url('../assets/img/Cultivate-5.jpg');
-  background-repeat:no-repeat;
-  display: compact;
-  background-size: 1440px 800px;
+  background: url('../assets/img/Cultivate-5.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;

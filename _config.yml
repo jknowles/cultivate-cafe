@@ -5,8 +5,8 @@
 title : Cultivate Cafe
 email : cultivate@cultivatecafe.org
 description: A cafe
-BASE_PATH : https://jknowles.github.io/cultivate-cafe
-production_url : https://jknowles.github.io/cultivate-cafe
+BASE_PATH : https://jknowles.github.io/cultivate-cafe/
+production_url : https://jknowles.github.io/cultivate-cafe/
 
 # Build settings
 collections:

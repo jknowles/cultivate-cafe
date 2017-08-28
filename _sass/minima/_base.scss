@@ -6,7 +6,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  background-color: white;
 }
 
 
@@ -17,11 +16,6 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: white;
-  background: url('../assets/img/Cultivate-5.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -30,7 +24,15 @@ body {
   font-kerning: normal;
 }
 
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
 
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

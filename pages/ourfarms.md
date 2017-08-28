@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Farms
-permalink: /farms/
+permalink: /ourfarms/
 categories: [pages]
 description: Our Farms
 ---

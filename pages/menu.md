@@ -6,31 +6,9 @@ categories: [pages]
 description: Our Menu
 ---
 
-## Cultivate: a co-op café
-### 901 Elm Street Youngstown
-
-
-**between YSU dormitories and Wick Park**
-**234-855-0175        cultivatecafe.org**
-**cultivate.a.co.op.cafe@gmail.com**
-**Tuesday-Friday 11am-6pm        Saturday 10am-2pm**
-
-### Dine In
-### Take Out
-### Full Service Catering
-
 # Fresh                Healthy            Delicious              Local
 
-
-Lake to River Co-op Market
-produce, milk, meat, eggs, cheese, pantry items and more
-
-we accept
-Pete’s Points
-EBT
-
-Follow us on Facebook and Instagram at Cultivate a co op cafe
-
+<br><br>
 
 ### Salads
 #### Locavore $8
@@ -60,13 +38,42 @@ Follow us on Facebook and Instagram at Cultivate a co op cafe
 
 ### Daily Features from our Local Farmers
 
-                      Pastries					       Smoothies
-								$4 small	$6 large
-    Housemade cookies			Made with real fruits & veggies
-Seasonal scones—they’re famous!             Sourced from local farms and preserved  at the peak of freshness
+### Pastries
+  $4 small	$6 large
 
-Coffee 					     Beverages
-Acoustic Coffee Roasters French Press        Baker’s Golden Dairy flavored milk & yogurt
-locally roasted, organic coffee                       Bearded Buch kombuchas, Honest Tea,
-                     $2.50   				         Virgils sodas, sparkling water, more
-         flavor shots   50¢ each		 
+### Smoothies
+  Made with real fruits & veggies, Sourced from local farms and preserved  at the peak of freshness
+
+### Housemade cookies			
+  Seasonal scones—they’re famous!             
+
+### Coffee $2.50
+  Acoustic Coffee Roasters French Press, locally roasted organic coffee
+  flavor shots, 50¢ each
+
+### Beverages
+  Baker's Golden Dairy flavored milk & yogurt
+  Bearded Buch kombuchas, Honest Tea
+  Virgils sodas, sparkling water, and more
+
+## Cultivate: a co-op café
+### 901 Elm Street Youngstown
+<br>
+<br>
+**between YSU dormitories and Wick Park**
+**234-855-0175        cultivatecafe.org**
+**cultivate.a.co.op.cafe@gmail.com**
+**Tuesday-Friday 11am-6pm        Saturday 10am-2pm**
+
+### Dine In
+### Take Out
+### Full Service Catering
+
+Lake to River Co-op Market
+produce, milk, meat, eggs, cheese, pantry items and more
+
+we accept
+  Pete’s Points
+  EBT
+
+Follow us on Facebook and Instagram at Cultivate a co op cafe

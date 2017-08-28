@@ -6,6 +6,8 @@ categories: [pages]
 description: Our Story
 ---
 
+<p>
+
 ## What is Cultivate?
 
 Cultivate is a fast-casual restaurant located in the near
@@ -96,3 +98,5 @@ we're all drawing inspiration and generating excitement just from being in the
 same space. We really hope more people will be inspired to bring what they
 make to market--with the Cafe and Co-op Market right next door, there are
 built in sales opportunities.  
+
+</p>

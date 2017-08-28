@@ -19,8 +19,9 @@ description: Our Menu
  choice of three housemade sides on a bed of local greens
 
 ### Soups
-#### Cup $3.75		Bowl $5.50       Quart $9.00
-#### Tomato bisque   Soup du jour
+Cup $3.75		Bowl $5.50       Quart $9.00
+#### Tomato bisque   
+#### Soup du jour
 
 ### Sandwiches
 #### Seasonal chicken $8.50
@@ -39,7 +40,7 @@ description: Our Menu
 ### Daily Features from our Local Farmers
 
 ### Pastries
-  $4 small	$6 large
+  $4 small	&nbsp; &nbsp; &nbsp; &nbsp; $6 large
 
 ### Smoothies
   Made with real fruits & veggies, Sourced from local farms and preserved  at the peak of freshness

@@ -36,7 +36,7 @@ our own place!"
 
 We're walking the walk when it comes to local, sustainable,
 authentic food! Farmers are delivering their product right from the field to
-the Cafe and working with Sue, the Cafe Manager, to grow things specifially
+the Cafe and working with Sue, the Cafe Manager, to grow things specifically
 for the Cafe. Other products are made right next door in the Common Wealth
 Kitchen and brought over freshly prepared which, by the way, increases sales
 for those "makers" and helps them grow their business--keeping our food
@@ -45,6 +45,7 @@ finishing up with butternut squash soup from local farmers and apples in
 salads as those stored well this past winter. But our taste buds seek lighter,
 brighter fare as the season changes and we'll soon have strawberries and
 asparagus from right here in Mahoning County to make scones, soups, and sides!
+
 The menu varies with product availability but we're fortunate to be able to
 preserve products to use for later in the season too so we'll be freezing
 those berries and other produce as it comes along. However--some things are

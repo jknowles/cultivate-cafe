@@ -52,8 +52,7 @@ such favorites they can't go away so you'll always find the comforts of tomato
 soup and a grilled cheese on the menu and the scones--which are to die
 for--may change flavor combos but are menu staples.
 
-## You’ve partnered with local farmers in the Youngstown area, which is so awesome!  Tell us about
-## those relationships and what it’s like to keep it all local.
+### You’ve partnered with local farmers in the Youngstown area, which is so awesome!  Tell us about those relationships and what it’s like to keep it all local.
 
 Farmers are the
 owners of the Cafe--it's member-owned and managed. So farmers and food makers
@@ -80,8 +79,7 @@ regional makers--Wake Robin fermented foods like kimchee and carrots, locally
 brewed kombucha from Bearded Buch in Cleveland, a great vegan spread that's so
 creamy you'll never miss the dairy from Red Lotus Foods--exciting stuff!
 
-Many people may not know about the Commonwealth Kitchen Incubator.  
-What are they, and how is Cultivate connected?
+### Many people may not know about the Commonwealth Kitchen Incubator. What are they, and how is Cultivate connected?
 
 The mother ship of local food! The Common
 Wealth Kitchen Incubator is what makes it all possible--for us and for lots of
@@ -97,11 +95,3 @@ we're all drawing inspiration and generating excitement just from being in the
 same space. We really hope more people will be inspired to bring what they
 make to market--with the Cafe and Co-op Market right next door, there are
 built in sales opportunities.  
-
-Cultivate, Lake to River Market, Common Wealth
-Kitchen Incubator, Northside Farmers Market and other revitalization efforts
-you'll see when you visit the neighborhood are all development projects of
-Common Wealth, Inc., a nonprofit community development corporation that's done
-neighborhood work here on the north side for more than thirty years. Big, big
-props to them for helping us all do the hard but good work that's happening in
-Youngstown and are entire region.

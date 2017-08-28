@@ -27,11 +27,11 @@ description: Our Menu
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="assets/img/Cultivate-4.jpg" alt="Inside">
+      <img src="../assets/img/Cultivate-4.jpg" alt="Inside">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-8.jpg" alt="Outside">
+      <img src="/assets/img/Cultivate-8.jpg" alt="Outside">
     </div>
 
     <div class="item">

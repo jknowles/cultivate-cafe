@@ -6,6 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+  background-color: white;
 }
 
 
@@ -16,7 +17,7 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+  background-color: white;
   background-image: url('../assets/img/Cultivate-5.jpg');
   background-repeat:no-repeat;
   display: compact;

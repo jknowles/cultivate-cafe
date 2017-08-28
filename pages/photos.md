@@ -31,39 +31,39 @@ description: Our Menu
     </div>
 
     <div class="item">
-      <img src="/assets/img/Cultivate-8.jpg" alt="Outside">
+      <img src="../assets/img/Cultivate-8.jpg" alt="Outside">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-9.jpg" alt="A">
+      <img src="../assets/img/Cultivate-9.jpg" alt="A">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-10.jpg" alt="B">
+      <img src="../assets/img/Cultivate-10.jpg" alt="B">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-13.jpg" alt="C">
+      <img src="../assets/img/Cultivate-13.jpg" alt="C">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-25.jpg" alt="D">
+      <img src="../assets/img/Cultivate-25.jpg" alt="D">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-30.jpg" alt="E">
+      <img src="../assets/img/Cultivate-30.jpg" alt="E">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-34.jpg" alt="F">
+      <img src="../assets/img/Cultivate-34.jpg" alt="F">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-40.jpg" alt="G">
+      <img src="../assets/img/Cultivate-40.jpg" alt="G">
     </div>
 
     <div class="item">
-      <img src="assets/img/Cultivate-50.jpg" alt="H">
+      <img src="../assets/img/Cultivate-50.jpg" alt="H">
     </div>
 
   </div>

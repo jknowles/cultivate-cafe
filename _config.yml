@@ -8,8 +8,8 @@ description: A cafe
 BASE_PATH : https://jknowles.github.io/cultivate-cafe/
 production_url : https://jknowles.github.io/cultivate-cafe/
 
-facebook_username: Cultivate: a co-op cafe
-instagram_username: Cultivate: a co-op cafe
+facebook_username: cultivatecoopcafe
+instagram_username: cultivatecoopcafe
 
 # Build settings
 collections:

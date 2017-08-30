@@ -90,9 +90,7 @@ Cup $3.75		Bowl $5.50       Quart $9.00
   Bearded Buch kombuchas, Honest Tea
   Virgils sodas, sparkling water, and more
 
-
-
-Cultivate is a fast-casual restaurant located in the near
+<!-- Cultivate is a fast-casual restaurant located in the near
 north campus district just a few blocks from YSU and steps south of historic
 Wick Park. The coolest thing about Cultivate is right there in its
 name -- Cultivate: a co-op cafe! Cultivate is owned and managed
@@ -102,7 +100,7 @@ rewards. Employees have ownership share in it as well. So we're cultivating
 growth for our members-the farmers and food makers (cheese, hot sauce, etc.),
 we're cultivating a revitalization of our neighborhood, and we're cultivating
 (we hope!) the desire and opportunity for students, local people, downtown folks
-to support and choose healthier, locally sourced food.
+to support and choose healthier, locally sourced food. -->
 
 
   <div class="row">

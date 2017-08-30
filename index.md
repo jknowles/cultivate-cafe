@@ -21,12 +21,12 @@ we accept
 **Dine In**
 **Take Out**
 **Full Service Catering**
-<br></br>
+<br>
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
-<br></br>
+<br>
 Follow us on social media:
-<br></br>
+<br>
 <ul>
 <li>
 <a href="https://www.instagram.com/{{ site.facebook_username }}">
@@ -38,7 +38,7 @@ Follow us on social media:
       </a>
 </li>
 </ul>
-<br></br>
+<br>
 
 
 ### Salads

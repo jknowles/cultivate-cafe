@@ -27,6 +27,7 @@ produce, milk, meat, eggs, cheese, pantry items and more
 <br>
 Follow us on social media:
 <br>
+
 <ul>
 <li>
 <a href="https://www.instagram.com/{{ site.facebook_username }}">

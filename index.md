@@ -5,19 +5,19 @@ categories: [pages]
 ---
 
 
-## Cultivate: a co-op café
-### 901 Elm Street Youngstown
+<h2 align="center">Cultivate: a co-op café</h2>
+<h3 align = "center">901 Elm Street Youngstown</h3>
+<h3 align = "center">234-855-0175</h3>
+<h4 align = "center">cultivate.a.co.op.cafe@gmail.com</h4>
 <br>
 <br>
-**between YSU dormitories and Wick Park**
-**234-855-0175        cultivatecafe.org**
-**cultivate.a.co.op.cafe@gmail.com**
-**Tuesday-Friday 11am-6pm    |    Saturday 10am-2pm**
-
+<h4> between YSU dormitories and Wick Park</h4>
+<h4> Tuesday-Friday 11am-6pm    |    Saturday 10am-2pm </h4>
+<br>
 we accept
   Pete’s Points
   EBT
-
+<br>
 **Dine In**
 **Take Out**
 **Full Service Catering**
@@ -101,42 +101,3 @@ growth for our members-the farmers and food makers (cheese, hot sauce, etc.),
 we're cultivating a revitalization of our neighborhood, and we're cultivating
 (we hope!) the desire and opportunity for students, local people, downtown folks
 to support and choose healthier, locally sourced food. -->
-
-
-  <div class="row">
-    <div class="col-md-4">
-      <div class="thumbnail">
-        <a href="assets/img/Cultivate-4.jpg">
-          <img src="assets/img/Cultivate-4.jpg" alt="Lights" style="width:100%">
-          <div class="caption">
-            <p>Our space...</p>
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="thumbnail">
-        <a href="assets/img/Cultivate-8.jpg">
-          <img src="assets/img/Cultivate-8.jpg" alt="Nature" style="width:100%">
-          <div class="caption">
-            <p>Pick up some delicious to-go items</p>
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="thumbnail">
-        <a href="assets/img/Cultivate-9.jpg">
-          <img src="assets/img/Cultivate-9.jpg" alt="Fjords" style="width:100%">
-          <div class="caption">
-            <p>All the snacks you could need...</p>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <br class="clearfix">
-
-
-</div>

@@ -7,21 +7,22 @@ layout: page
 <h3 align = "center">901 Elm Street Youngstown</h3>
 <h3 align = "center">234-855-0175</h3>
 <h4 align = "center">cultivate.a.co.op.cafe@gmail.com</h4>
+<h5 align = "center">Dine In</h5>
+<h5 align = "center">Take Out</h5>
+<h5 align = "center">Full Service Catering</h5>
 <br>
+<h4> Tuesday-Friday 11am-6pm    |    Saturday 10am-2pm </h4>
 <br>
 <h4> between YSU dormitories and Wick Park</h4>
-<h4> Tuesday-Friday 11am-6pm    |    Saturday 10am-2pm </h4>
 <br>
 we accept
   Pete’s Points
   EBT
 <br>
-**Dine In**
-**Take Out**
-**Full Service Catering**
 <br>
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
+<br>
 <br>
 Follow us on social media:
 <br>
@@ -39,8 +40,7 @@ Follow us on social media:
 </li>
 </ul>
 <br>
-
-
+<h2 align="center">Menu</h2>
 ### Salads
 #### Locavore $8
  seasonal veg, local greens, choice of housemade dressing

@@ -29,7 +29,7 @@ Follow us on social media:
 
 <ul>
 <li>
-<a href="https://www.instagram.com/{{ site.facebook_username }}">
+<a href="https://www.instagram.com/{{ site.instagram_username }}">
   <i class="fa fa-instagram"></i> Instagram
   </a>
 </li>

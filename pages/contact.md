@@ -17,5 +17,5 @@ description: Get In Touch
 <br>
 **Address:** 901 Elm Street Youngstown 44505
 <br>
-**Email address:** cultivate.a.co.op.cafe@gmail.com
+**Email address:** (cultivate.a.co.op.cafe@gmail.com)[mailto:cultivate.a.co.op.cafe@gmail.com]
 <br>

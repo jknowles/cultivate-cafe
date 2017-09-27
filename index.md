@@ -21,7 +21,8 @@ layout: page
   EBT</strong>
 <br>
 <br>
-<img src="{{ "assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width:20%>
+
+<img src="{{ "assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" style="max-width:20%;">
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
 <br>

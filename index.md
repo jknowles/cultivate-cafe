@@ -23,6 +23,8 @@ layout: page
 <br>
 
 <img src="{{ "assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" style="max-width:20%;">
+<br>
+<br>
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
 <br>

@@ -5,7 +5,7 @@ layout: page
 
 <h2 align="center">Cultivate: a co-op café</h2>
 <h3 align = "center">901 Elm Street Youngstown</h3>
-<h4> between YSU dormitories and Wick Park</h4>
+<h4 align = "center"> between YSU dormitories and Wick Park</h4>
 <h3 align = "center">234-855-0175</h3>
 <h4 align = "center">cultivate.a.co.op.cafe@gmail.com</h4>
 <h5 align = "center">Dine In</h5>
@@ -21,7 +21,7 @@ layout: page
   EBT</strong>
 <br>
 <br>
-<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width: 20%>
+<img src="{{ "assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width:20%>
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
 <br>

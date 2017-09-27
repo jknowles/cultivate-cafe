@@ -6,7 +6,7 @@ categories: [pages]
 description: Our Farms
 ---
 
-<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width: 25%>
+<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" style="max-width:30%;">
 
 ## Our Farmers and Producers
 

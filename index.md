@@ -5,21 +5,23 @@ layout: page
 
 <h2 align="center">Cultivate: a co-op café</h2>
 <h3 align = "center">901 Elm Street Youngstown</h3>
+<h4> between YSU dormitories and Wick Park</h4>
 <h3 align = "center">234-855-0175</h3>
 <h4 align = "center">cultivate.a.co.op.cafe@gmail.com</h4>
 <h5 align = "center">Dine In</h5>
 <h5 align = "center">Take Out</h5>
 <h5 align = "center">Full Service Catering</h5>
 <br>
-<h4> Tuesday-Friday 11am-6pm    |    Saturday 10am-2pm </h4>
+<h5 align = "center">Tuesday-Friday 11am-6pm</h5>
+<h5 align = "center">Saturday 10am-2pm </h5>
 <br>
-<h4> between YSU dormitories and Wick Park</h4>
 <br>
-we accept
+<strong>we accept
   Pete’s Points
-  EBT
+  EBT</strong>
 <br>
 <br>
+<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width: 20%>
 Lake to River Co-op Market
 produce, milk, meat, eggs, cheese, pantry items and more
 <br>
@@ -74,7 +76,7 @@ Cup $3.75		Bowl $5.50       Quart $9.00
   $4 small	&nbsp; &nbsp; &nbsp; &nbsp; $6 large
 
 ### Smoothies
-  Made with real fruits & veggies, Sourced from local farms and preserved  at the peak of freshness
+  Made with real fruits & veggies
 
 ### Housemade cookies			
   Seasonal scones—they’re famous!             

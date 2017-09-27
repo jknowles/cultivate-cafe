@@ -6,19 +6,50 @@ categories: [pages]
 description: Our Farms
 ---
 
+<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width: 25%>
 
-We work with a variety of local farms in the Youngstown Area to provide
-fresh local produce at affordable prices.
+## Our Farmers and Producers
 
-<img src="{{ "/assets/img/L2Rlogo.jpg" | relative_url }}" alt="Lake 2 River Logo" max-width: 50%>
+Acoustic Coffee Roasters
 
-## Produce
+Angiuli's Farm Market
 
+Avant Gardens Farm and Mushroomery
 
-## Meat
+Baker's Golden Dairy
 
-- Miller Grassfed
+Birdsong Farm
 
-## Prepared Foods
+Common Wealth Kitchen Incubator
 
-## Other Products
+Dan Good Jam
+
+Dr. Kathy Padgitt
+
+Evergreen Hydroponics
+
+Field Fresh Farm
+
+Grow Urban Farm
+
+Her Primitive Ways
+
+Huffman Fruit Farm
+
+Iron Roots Urban Farm
+
+Lamppost Farm
+
+Laughing Crow Farms
+
+Lucky Penny Farm
+
+Middlefield Original Cheese Co-op
+
+Miller Livestock Company
+
+Pancake Maples
+
+Papa's Italian Pasta Sauce
+
+Premium Pastured Meats
